@@ -61,6 +61,22 @@ p {
   color: #0090aa;
 }
 
+#card {
+	display: flex;
+}
+
+h1 span {
+	color: red;
+}
+
+.card-title p {
+	text-align: center;
+	line-height: 1;
+}
+
+h2 p a {
+	font-family: serif;
+}
 /* ここから以下 */
 /*
 1 cardに
